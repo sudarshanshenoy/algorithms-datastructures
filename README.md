@@ -10,3 +10,6 @@
 
 ## Sliding Window
 1. maxSubarraySum (window size is provided as input)
+
+## Divide and Conquer Pattern
+1. Binary search
