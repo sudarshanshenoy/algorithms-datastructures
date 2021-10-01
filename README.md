@@ -7,3 +7,6 @@
 ## Multipointer
 1. sumZero
 2. countUniqueValues
+
+## Sliding Window
+1. maxSubarraySum (window size is provided as input)
