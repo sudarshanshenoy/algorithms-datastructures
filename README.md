@@ -4,6 +4,7 @@
 1. countSameSquare
 2. anagram
 3. sameFrequency
+4. areThereDuplicates
 
 ## Multipointer
 1. sumZero
