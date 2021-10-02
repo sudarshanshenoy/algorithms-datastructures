@@ -2,7 +2,8 @@
 
 ## Frequency Counting Pattern
 1. countSameSquare
-2. Anagram
+2. anagram
+3. sameFrequency
 
 ## Multipointer
 1. sumZero
