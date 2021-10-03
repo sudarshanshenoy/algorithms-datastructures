@@ -10,6 +10,7 @@
 1. sumZero
 2. countUniqueValues
 3. averagePair
+4. isSubsequence
 
 ## Sliding Window
 1. maxSubarraySum (window size is provided as input)
