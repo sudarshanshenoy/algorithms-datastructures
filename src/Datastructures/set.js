@@ -51,4 +51,16 @@ export class Set {
 
     return newSet;
   };
+
+  difference = (anotherSet) => {
+    let newSet = new Set();
+    let thisSetValues = this.values();
+    for (let value of thisSetValues) {
+      if (!anotherSet.has(value)) {
+        newSet.add(value);
+      }
+    }
+
+    return newSet;
+  };
 }
