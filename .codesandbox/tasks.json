@@ -1,0 +1,25 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  "setupTasks": [],
+
+  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
+  "tasks": {
+    "node index.js": {
+      "name": "node index.js",
+      "command": "node index.js",
+      "runAtStart": true
+    },
+    "node index.mjs": {
+      "name": "node index.mjs",
+      "command": "node index.mjs"
+    },
+    "npm run start": {
+      "name": "npm run start",
+      "command": "npm run start"
+    },
+    "yarn run start": {
+      "name": "yarn run start",
+      "command": "yarn run start"
+    }
+  }
+}

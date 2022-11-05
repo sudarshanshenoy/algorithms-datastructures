@@ -1,0 +1,21 @@
+{
+  "name": "algorithms-datastructures",
+  "version": "1.0.0",
+  "description": "## Frequency Counting Pattern 1. countSameSquare 2. anagram 3. sameFrequency 4. areThereDuplicates",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudarshanshenoy/algorithms-datastructures.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudarshanshenoy/algorithms-datastructures/issues"
+  },
+  "homepage": "https://github.com/sudarshanshenoy/algorithms-datastructures#readme"
+}
