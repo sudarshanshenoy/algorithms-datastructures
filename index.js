@@ -26,6 +26,7 @@ mySet.add(5);
 mySet.add(5);
 mySet.add(4);
 mySet.add(1);
+mySet.add(9);
 console.log(mySet.values());
 console.log(mySet.has(1));
 console.log(mySet.has(2));
@@ -34,6 +35,8 @@ const mySet2 = new Set();
 mySet2.add(2);
 mySet2.add(3);
 mySet2.add(5);
+mySet2.add(7);
 
 console.log(mySet2.values());
 console.log(mySet.union(mySet2).values());
+console.log(mySet.intersection(mySet2).values());
